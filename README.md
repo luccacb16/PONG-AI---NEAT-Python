@@ -1,1 +1,1 @@
-# PONG-AI---NEAT-Python
+# PONG AI - NEAT-Python
